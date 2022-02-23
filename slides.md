@@ -109,7 +109,6 @@ Exemples de projets sans visuels:
   - **[Gatsby.js](https://www.gatsbyjs.com/)** (React)
   - **[Next.js](https://nextjs.org/)** (React)
   - **[Nuxt.js](https://nuxtjs.org/)** (Vue)
-  - **[Vitepress](https://vitepress.vuejs.org/)** (Vue)
 - **[A partir de templates HTML & CSS](https://bashooka.com/html/free-html-css-portfolio-web-design-templates/)**
 
 ---
