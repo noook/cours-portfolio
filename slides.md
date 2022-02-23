@@ -145,7 +145,6 @@ Libre à vous de faire quelque chose de simple, et de vous servir de petites lib
 Mais ça reste toute de même possible. Les liens vers les frameworks en dessous proposent de quoi créer une SPA pas trop lourde (**et statique**) pour pouvoir la déployer derrière gratuitement sur des services de déploiement automatisé (on y vient après)
 
 - **[Nuxt.js](https://nuxtjs.org/)** (Vue, in static mode not SSR)
-- **[Vitepress](https://vitepress.vuejs.org/)** (Vue)
 - **[Gatsby.js](https://www.gatsbyjs.com/)** (React)
 - **[Next.js](https://nextjs.org/)** (React)
 
